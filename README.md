@@ -60,9 +60,10 @@ Project ini dibuat menggunakan **npm** dan **Vite** + **Tailwind CSS**. Ikuti la
 
 ### Web Hosting & Deployment
 
-- **Web Hosting**: [netlify.com](https://netlify.com)
+- **Web Hosting**: Vercel
 - **GitHub Repository**: [https://github.com/RahmatHedo/TechTest_RahmatHedo](https://github.com/RahmatHedo/TechTest_RahmatHedo)
-- **Deployment URL**: *(Silakan deploy folder `dist` hasil `npm run build` ke netlify.com Anda)*
+- **Deployment URL**: [https://tech-test-rahmat-hedo.vercel.app/](https://tech-test-rahmat-hedo.vercel.app/)
+
 
 ---
 
