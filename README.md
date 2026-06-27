@@ -1,4 +1,4 @@
-# FrontendDevReactjs-RahmatHedo
+# FrontendDevReactjs-RahmatHedoAlfikri
 
 Tugas Technical Test - Front End Developer
 
@@ -19,8 +19,8 @@ Project ini dibuat menggunakan **npm** dan **Vite** + **Tailwind CSS**. Ikuti la
 #### Menggunakan NPM:
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/RahmatHedo/TechTest_RahmatHedo.git
-   cd TechTest_RahmatHedo
+   git clone https://github.com/RahmatHedo/FrontendDevReactjs-RahmatHedoAlfikri.git
+   cd FrontendDevReactjs-RahmatHedoAlfikri
    ```
 2. **Install dependencies**:
    ```bash
@@ -61,7 +61,7 @@ Project ini dibuat menggunakan **npm** dan **Vite** + **Tailwind CSS**. Ikuti la
 ### Web Hosting & Deployment
 
 - **Web Hosting**: Vercel
-- **GitHub Repository**: [https://github.com/RahmatHedo/TechTest_RahmatHedo](https://github.com/RahmatHedo/TechTest_RahmatHedo)
+- **GitHub Repository**: [https://github.com/RahmatHedo/FrontendDevReactjs-RahmatHedoAlfikri](https://github.com/RahmatHedo/FrontendDevReactjs-RahmatHedoAlfikri)
 - **Deployment URL**: [https://tech-test-rahmat-hedo.vercel.app/](https://tech-test-rahmat-hedo.vercel.app/)
 
 
